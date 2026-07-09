@@ -1,0 +1,10 @@
+date,type,category,description,amount
+2026-07-01,income,Salary,Monthly salary,25000
+2026-07-02,expense,Food,Lunch,65
+2026-07-03,expense,Transport,MTR,18
+2026-07-05,expense, Rent,Apartment rent,8000
+2026-07-06,expense,Food,Dinner,120
+2026-07-08,income,Freelance,Side project,2000
+2026-08-01,income,Salary,Monthly salary,25000
+2026-08-02,expense,Food,Lunch,70
+2026-08-05,expense,Rent,Apartment rent,8000
