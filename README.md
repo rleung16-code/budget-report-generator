@@ -1,6 +1,6 @@
 # Budget Report Generator
 A Python tool that generates monthly budget reports from CSV transactions data.
-This project reads income and expense records from a CSV file,filters transactions by month, calculate totals, summarize expense by category, and saves a text report.
+This project reads income and expense records from a CSV file, filters transactions by month, calculate totals, summarize expense by category, and saves a text report.
 ## Features
 - Load transactions from a CSV file
 - Filter transactions by month
@@ -9,7 +9,7 @@ This project reads income and expense records from a CSV file,filters transactio
 - Calculate monthly balance
 - Summarize expenses by category
 - Generate a monthly text report
-- Save the report to a'.txt'file
+- Save the report to a `.txt` file
 - Includes unit tests
 ## Project files
 - 'main.py' - Runs the report generator
@@ -39,8 +39,8 @@ Total expenses: 8,203.00
 Balance: 18,797.00
  
 Expense by category:
-- Food:185.00
-- Rent:8,000.00
+- Food: 185.00
+- Rent: 8,000.00
 - Transport: 18.00
 
 Report saved to monthly_report.txt
@@ -61,6 +61,4 @@ OK
 
 ## Notes
 
-'monthly_report.txt' is generated when the program runs and is not uploaded to GitHub
-
-- '
+`monthly_report.txt` is generated when the program runs and is not uploaded to GitHub.
